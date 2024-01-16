@@ -259,8 +259,6 @@ Refer to [CONTRIBUTING.md](/CONTRIBUTING.md) for more details on contributing, i
   <a href="https://github.com/sponsors/DenverCoder1"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-[☕ Buy me a coffee](https://ko-fi.com/jlawrence)
-
 ---
 
 Made with ❤️ and PHP
